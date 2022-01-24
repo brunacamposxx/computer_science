@@ -3,46 +3,46 @@ Computer science
 ⚡️ Welcome to my Computer Science module exercises repository at Trybe!
 
 📍 Introduction to Python
-    Introdução - Ciência da Computação
-    Aprendendo Python
-    Entrada e Saída de Dados
-    Testes
-    Projeto - Job Insights
+    Introduction - Computer Science
+    Learning Python
+    Data Input and Output
+    Tests
+    Project - Job Insights
 
 
 📅 Object Oriented Programming and Design Patterns
-    Introdução à programação orientada a objetos
-    Herança, Composição e Interfaces
-    Padrão de projeto
-    Projeto - Relatórios de Estoque
+    Introduction to object-oriented programming
+    Inheritance, Composition, and Interfaces
+    design pattern
+    Project - Inventory Reports
 
 
 📅 Networks and Data Scraping
-    Arquitetura de redes
-    Redes de computadores, ferramentas e segurança
-    Raspagem de Dados
-    Projeto - Tech News
+    Network architecture
+    Computer networks, tools and security
+    Data Scraping
+    Project - Tech News
 
 
 📅 Algorithms
-    Complexidade de Algoritmos
-    Recursividade e Estratégias para solução de probemas
-    Algoritmos de ordenação e busca
-    Projeto - Algoritmos
+    Complexity of Algorithms
+    Recursion and Strategies for solving problems
+    Sort and search algorithms
+    Project - Algorithms
 
 
 📅 Data Structure I: Arrays, Hashmaps and Sets
-    Arquitetura de Computadores
+    Computer Architecture
     Arrays
-    Hashmap e Dict
+    Hashmap and Dict
     Set
-    Projeto - Restaurant Orders
+    Project - Restaurant Orders
 
 
 📅 Data Structure II: Lists, Queues, and Stacks
-    Nó e Listas Encadeadas
-    Pilhas e Filas
-    Projeto - TING - Trybe Is Not Google
+    Node and Linked Lists
+    Stacks and Queues
+    Project - TING - Trybe Is Not Google
 
 
 🎓 Graduation on March/2022
