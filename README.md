@@ -4,7 +4,7 @@
 
 #### This is my study schedule:
 
-📍 Introduction to Python
+📍 Introduction to ~~baby~~ Python
 
     Introduction - Computer Science
     Learning Python
