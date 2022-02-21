@@ -4,7 +4,7 @@
 
 #### This is my study schedule:
 
-📍 Introduction to ~~baby~~ Python
+✔ Introduction to ~~baby~~ Python
 
     Introduction - Computer Science
     Learning Python
@@ -13,7 +13,7 @@
     ### Project - Job Insights ###
 
 
-📅 Object Oriented Programming and Design Patterns
+✔ Object Oriented Programming and Design Patterns
 
     Introduction to object-oriented programming
     Inheritance, Composition, and Interfaces
@@ -21,7 +21,7 @@
     ### Project - Inventory Reports ###
 
 
-📅 Networks and Data Scraping
+✔ Networks and Data Scraping
 
     Network architecture
     Computer networks, tools and security
@@ -29,7 +29,7 @@
     ### Project - Tech News ###
 
 
-📅 Algorithms
+📍  Algorithms
 
     Complexity of Algorithms
     Recursion and Strategies for solving problems
